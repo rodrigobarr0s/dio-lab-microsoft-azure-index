@@ -22,6 +22,9 @@ Bem-vindo ao repositório de índice de projetos relacionados ao **DIO Lab Micro
 6. [**Projeto 6 - Análise de Sentimentos com Language Studio no Azure AI**](./projeto6/README.md)  
    Este projeto demonstra como utilizar o **Language Studio**, da plataforma **Azure AI**, para realizar **análise de sentimentos** em textos, classificando opiniões como positivas, negativas, neutras ou mistas.
 
+7. [**Projeto 7 - Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados**](./projeto7/README.md)  
+   Este projeto demonstra como utilizar o **Azure Cognitive Search** para indexação e consulta de dados, aplicando o **AI Search** para enriquecer e melhorar os resultados das pesquisas em documentos e dados estruturados e não estruturados.
+
 ## Sobre o DIO Lab Microsoft Azure
 
 Este repositório faz parte do conjunto de atividades práticas do **DIO Lab Microsoft Azure**, um programa educacional voltado para o aprendizado de tecnologias Azure.
