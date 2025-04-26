@@ -13,6 +13,9 @@ Bem-vindo ao repositório de índice de projetos relacionados ao **DIO Lab Micro
 3. [**Projeto 3 - Configurando uma Instância de Banco de Dados na Azure**](./projeto3/README.md)  
    Este projeto ensina como configurar uma instância de banco de dados no Microsoft Azure, cobrindo desde a escolha do tipo de banco (SQL, MySQL, PostgreSQL) até a conexão com a aplicação.
 
+4. [**Projeto 4 - Construindo Arquiteturas no Azure**](./projeto4/README.md)  
+   Este projeto aborda como projetar e implementar arquiteturas de soluções no Microsoft Azure, integrando diferentes serviços para atender a necessidades específicas.
+
 ---
 
 ## Sobre o DIO Lab Microsoft Azure
