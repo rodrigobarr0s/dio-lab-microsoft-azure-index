@@ -25,6 +25,9 @@ Bem-vindo ao repositório de índice de projetos relacionados ao **DIO Lab Micro
 7. [**Projeto 7 - Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados**](./projeto7/README.md)  
    Este projeto demonstra como utilizar o **Azure Cognitive Search** para indexação e consulta de dados, aplicando o **AI Search** para enriquecer e melhorar os resultados das pesquisas em documentos e dados estruturados e não estruturados.
 
+8. [**Projeto 8 - Explorando os Recursos de IA Generativa com Copilot e OpenAI**](./projeto8/README.md)  
+   Este projeto explora como utilizar os recursos de **IA Generativa** com o **Copilot** da Microsoft e os serviços **OpenAI do Azure** para gerar texto, código, imagens e muito mais.
+
 ## Sobre o DIO Lab Microsoft Azure
 
 Este repositório faz parte do conjunto de atividades práticas do **DIO Lab Microsoft Azure**, um programa educacional voltado para o aprendizado de tecnologias Azure.
