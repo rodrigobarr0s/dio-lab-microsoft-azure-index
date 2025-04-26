@@ -19,20 +19,18 @@ Bem-vindo ao repositório de índice de projetos relacionados ao **DIO Lab Micro
 5. [**Projeto 5 - Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure**](./projeto5/README.md)  
    Este projeto explora como configurar recursos (como CPU, memória e armazenamento) e dimensionar máquinas virtuais no Azure para atender a demandas específicas de carga e desempenho.
 
----
+6. [**Projeto 6 - Análise de Sentimentos com Language Studio no Azure AI**](./projeto6/README.md)  
+   Este projeto demonstra como utilizar o **Language Studio**, da plataforma **Azure AI**, para realizar **análise de sentimentos** em textos, classificando opiniões como positivas, negativas, neutras ou mistas.
 
 ## Sobre o DIO Lab Microsoft Azure
-Este repositório faz parte do conjunto de atividades práticas do **DIO Lab Microsoft Azure**, um programa educacional voltado para o aprendizado de tecnologias Azure.
 
----
+Este repositório faz parte do conjunto de atividades práticas do **DIO Lab Microsoft Azure**, um programa educacional voltado para o aprendizado de tecnologias Azure.
 
 ## Como Contribuir
 
 1. Navegue até o projeto de interesse.
 2. Leia as instruções no README.md correspondente.
 3. Fique à vontade para abrir issues ou enviar pull requests com melhorias.
-
----
 
 ## Recursos Adicionais
 
