@@ -16,6 +16,9 @@ Bem-vindo ao repositório de índice de projetos relacionados ao **DIO Lab Micro
 4. [**Projeto 4 - Construindo Arquiteturas no Azure**](./projeto4/README.md)  
    Este projeto aborda como projetar e implementar arquiteturas de soluções no Microsoft Azure, integrando diferentes serviços para atender a necessidades específicas.
 
+5. [**Projeto 5 - Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure**](./projeto5/README.md)  
+   Este projeto explora como configurar recursos (como CPU, memória e armazenamento) e dimensionar máquinas virtuais no Azure para atender a demandas específicas de carga e desempenho.
+
 ---
 
 ## Sobre o DIO Lab Microsoft Azure
