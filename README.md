@@ -7,6 +7,9 @@ Bem-vindo ao repositório de índice de projetos relacionados ao **DIO Lab Micro
 1. [**Projeto 1 - Microsoft Azure - Localizando Serviços por Categoria**](./projeto1/README.md)  
    Este projeto tem como objetivo ensinar como localizar e identificar serviços do Microsoft Azure, agrupados por suas respectivas categorias funcionais.
 
+2. [**Projeto 2 - Criando Máquinas Virtuais na Azure**](./projeto2/README.md)  
+   Este projeto demonstra como criar e configurar máquinas virtuais no Microsoft Azure, explorando opções como sistema operacional, tamanho da máquina e rede.
+
 ---
 
 ## Sobre o DIO Lab Microsoft Azure
